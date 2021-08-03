@@ -19,6 +19,11 @@ In my time, besides studying, I develop software. I've currently been specializi
   <li>docker</li>
   <li>react js</li>
 </ul>
+
+### Social network
+
+[![Linkedin Badge](https://www.linkedin.com/in/jardielson-silva-ferreira)]
+
 <!--
 **Jardielson-s/Jardielson-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

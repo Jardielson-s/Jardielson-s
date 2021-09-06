@@ -23,7 +23,7 @@ In my time, besides studying, I develop software. I've currently been specializi
 ### Social network
 
 
-[![Linkedin Badge]](https://img.shields.io/badge/-Jardielson%20Silva-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jardielson-silva-ferreira/)
+![Linkedin Badge](https://img.shields.io/badge/-Jardielson%20Silva-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jardielson-silva-ferreira)
 
 <!--
 **Jardielson-s/Jardielson-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

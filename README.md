@@ -8,22 +8,20 @@ In my time, besides studying, I develop software. I've currently been specializi
 </p>
 
 ### techs ⚡
-<ul>
-  <li>Javascript</li>
-  <li>C language</li>
-  <li>java</li>
-  <li>python</li>
-  <li>node js</li>
-  <li>aws</li>
-  <li>git</li>
-  <li>docker</li>
-  <li>react js</li>
-</ul>
+
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow) 
+![C Badge](https://img.shields.io/badge/Language%20C-blue)
+![Java Badge](https://img.shields.io/badge/java-red)
+![Python Badge](https://img.shields.io/badge/python-yellow)
+![Node Badge](https://img.shields.io/badge/node%20js-green)
+![Aws Badge](https://img.shields.io/badge/services%20aws-yellow)
+![Git Badge](https://img.shields.io/badge/git-red)
+![Docker Badge](https://img.shields.io/badge/docker-blue)
+![React Badge](https://img.shields.io/badge/react%20js-blue)
 
 ### Social network
 
-
-![Linkedin Badge](https://img.shields.io/badge/-Jardielson%20Silva-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jardielson-silva-ferreira)
+[![Linkedin Badge](https://img.shields.io/badge/-Jardielson%20Silva-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jardielson-silva-ferreira/)](https://www.linkedin.com/in/jardielson-silva-ferreira/) 
 
 <!--
 **Jardielson-s/Jardielson-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

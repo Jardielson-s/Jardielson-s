@@ -10,6 +10,7 @@ In my time, besides studying, I develop software. I've currently been specializi
 ### techs ⚡
 
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow) 
+![TypeScript Badge](https://img.shields.io/badge/docker-blue)
 ![C Badge](https://img.shields.io/badge/Language%20C-blue)
 ![Java Badge](https://img.shields.io/badge/java-red)
 ![Python Badge](https://img.shields.io/badge/python-yellow)

@@ -3,7 +3,7 @@
 ### About me 🔭
 <p>
 I am a computer science student at the Federal University of Piauí.
-I have more than 3 years of experience with programming, including c language, java, javascript and python.
+I have more than 4 years of experience with programming, including c language, java, javascript and python.
 In my time, besides studying, I develop software. I've currently been specializing in the backend using node js.  
 </p>
 

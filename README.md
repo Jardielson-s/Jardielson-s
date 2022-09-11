@@ -15,7 +15,7 @@ In my time, besides studying, I develop software. I've currently been specializi
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jardielson-s&count_private=true&show_icons=true&hide_title=true&hide_border=true&langs_count=5&bg_color=00000001&text_color=777)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jardielson-s&hide_title=true&hide_border=true&langs_count=7&bg_color=00000000&text_color=999)](https://github.com/Jardielson-s)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jardielson-s&hide_title=true&hide_border=true&langs_count=8&bg_color=00000000&text_color=999)](https://github.com/Jardielson-s)
 
 ## Languages and tools i already have experienced ⚡
 

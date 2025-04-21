@@ -9,7 +9,7 @@ I am a highly focused and analytical professional, capable of working in multipl
 Outside of work, I enjoy playing soccer, watching anime, reading manga, and playing video games. These hobbies help me stay balanced, think creatively, and recharge, contributing to my overall productivity and well-being. 
 </p>
 
-- 🍃 I’m currently learning go lang and solutions architecture.
+- 🍃 I’ve been learning go lang and solutions architecture.
 - 📫 How to reach me: jardielsonbio@gmail.com
   
 <!--- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jardielson-s&count_private=true&show_icons=true&hide_title=true&hide_border=true&langs_count=5&bg_color=00000001&text_color=777)

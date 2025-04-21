@@ -4,12 +4,12 @@
 
 ### About me 🔭
 <p>
-I am a computer science student at the Federal University of Piauí.
-I have more than 4 years of experience with programming, including c language, java, javascript and python.
-In my time, besides studying, I develop software. I've currently been specializing in the backend using node js.  
+I am a software engineer with experience in the full product development lifecycle, from conception to release. My main stack is Node.js with TypeScript, but I also have knowledge in Python, Go, Kotlin, and Java. I have worked with payment gateways such as Asaas and am familiar with tools like GitHub, Git, Azure DevOps, and AWS. Although my focus is on backend development, I am also capable of solving problems on the front end when needed. Additionally, I have intermediate knowledge in DevOps practices.
+I am a highly focused and analytical professional, capable of working in multiple squads simultaneously. My multidisciplinary approach allows me to contribute in various areas of the development process. I am passionate about sharing knowledge and collaborating with teams to achieve high-quality results.
+Outside of work, I enjoy playing soccer, watching anime, reading manga, and playing video games. These hobbies help me stay balanced, think creatively, and recharge, contributing to my overall productivity and well-being. 
 </p>
 
-- 🍃 I’m currently learning reactjs, nestjs and other tecnologies.
+- 🍃 I’m currently learning go lang and solutions architecture.
 - 📫 How to reach me: jardielsonbio@gmail.com
   
 <!--- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jardielson-s&count_private=true&show_icons=true&hide_title=true&hide_border=true&langs_count=5&bg_color=00000001&text_color=777)
